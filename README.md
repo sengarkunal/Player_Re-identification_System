@@ -13,16 +13,15 @@ This project implements a player re-identification system for sports videos. It 
 - 🔍 **Re-identification**: Implements cosine similarity for matching players across frames
 - 🎥 **Video Processing**: Supports processing of video files with configurable parameters
 - 📊 **Visualization**: Provides visual feedback with bounding boxes and player IDs
-- ⚡ **GPU Acceleration**: Optimized for CUDA-enabled devices
 
 ## Examples
 
 Here are some screenshots showing the system in action:
 
-<div align="center">
-  <img src="docs/images/img1.png" alt="Player Re-identification Example 1" width="45%">
-  <img src="docs/images/img2.png" alt="Player Re-identification Example 2" width="45%">
-  <p><em>Player detection and re-identification results on sports footage</em></p>
+<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 20px; margin: 20px 0;">
+  <img src="docs/images/img1.png" alt="Player Re-identification Example 1" style="max-width: 95%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="docs/images/img2.png" alt="Player Re-identification Example 2" style="max-width: 95%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <p style="margin-top: 10px; color: #666; font-style: italic;">Player detection and re-identification results on sports footage</p>
 </div>
 
 ## Installation
