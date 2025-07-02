@@ -15,6 +15,16 @@ This project implements a player re-identification system for sports videos. It 
 - 📊 **Visualization**: Provides visual feedback with bounding boxes and player IDs
 - ⚡ **GPU Acceleration**: Optimized for CUDA-enabled devices
 
+## Examples
+
+Here are some screenshots showing the system in action:
+
+<div align="center">
+  <img src="docs/images/img1.png" alt="Player Re-identification Example 1" width="45%">
+  <img src="docs/images/img2.png" alt="Player Re-identification Example 2" width="45%">
+  <p><em>Player detection and re-identification results on sports footage</em></p>
+</div>
+
 ## Installation
 
 1. Clone this repository:
